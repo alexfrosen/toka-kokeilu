@@ -2,3 +2,4 @@ mun eka rivi
 toka rivi
 kolmas rivi
 neljs rivi
+kuudes rivi
